@@ -1,3 +1,12 @@
+<style>
+    body{
+        text-align:center; 
+        padding: 200px; 
+        background-color:beige;"
+    }
+</style>
+
+
 <?php
         if(isset($_POST["button"])){
             // Fecha y hora en UTC
